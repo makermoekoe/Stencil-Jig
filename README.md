@@ -1,7 +1,7 @@
 # Stencil-Jig
 
-<img src="docs/stenciljig_complete_closed.png" width="300px"></a>
-<img src="docs/stenciljig_complete_opened.png" width="300px"></a>
+<img src="docs/stenciljig_complete_closed.png" width="400px"></a>
+<img src="docs/stenciljig_complete_opened.png" width="400px"></a>
 
 The Stencil-Jig is a simple DIY machine for PCB stenciling built with the Openbuilds v-slot system. Dealing with those stencils is always tricky, because they have to be aligned perfectly to get great soldering results. So far, I was always using these stencils with spare PCBs around the project PCB which are fixed in position with tape. As I am using these stencils quite often in the last time I was thinking about creating a simple jig for it and here it is.
 
@@ -56,3 +56,9 @@ Except the 3D printed parts and the extrusions listed above you will also need t
 - 2x M5 screw DIN_X 20mm
 - Xx M4 extrusion nuts
 - 1x M4 self-locking nut
+
+## Adjustment guides
+
+<img src="docs/stenciljig_adjustment_guide.png" width="400px"></a>
+
+The adjustment guides are there to hold the upper part of the jig (including the stencil) during the stenceling process in place, so that it doesn't move to the left nor right.
