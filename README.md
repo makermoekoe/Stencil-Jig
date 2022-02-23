@@ -39,26 +39,33 @@ For the complete machine, as it is seen in the picture below, you'll need the fo
 
 Except the 3D printed parts and the extrusions listed above you will also need the following parts:
 
+<img src="docs/stenciljig_hardwareparts.JPG" width="400px"></a>
+
 - 2x 8mm stainless steel rod (length = length of the jig - 40mm)
 - 4x 625RS bearings (16x5x5mm)
-- 2x spring for the 8mm rod
+- 2x strong springs for the 8mm rod
 - 4x M3 threaded rod ~100mm
 - 1x M4 threaded rod ~100mm
 - 1x steel plate 1mm (~290mmx250mm)
 - 2x aluminium extrusion 5x20x220mm
 - 4x extrusion corner 4040
 - 4x M3 threaded insert
-- 1x M4 threaded insert
-- Xx M4 screw DIN_X 8mm
-- Xx M4 screw DIN_X 12mm
-- 4x M4 screw DIN_X 25mm
-- 2x M5 screw DIN_X 50mm
-- 2x M5 screw DIN_X 20mm
-- Xx M4 extrusion nuts
+- 3x M4 threaded insert
+- 40x M4 screw DIN 912 8mm
+- 6x M4 screw DIN 912 12mm
+- 10x M4 screw DIN 912 20mm
+- 4x M4 screw DIN 912 25mm
+- 2x M5 screw DIN 912 50mm
+- 2x M5 screw DIN 912 30mm
+- 60x M4 extrusion nuts
 - 1x M4 self-locking nut
+- Xx washers 4,3mm x 15mm
+- Xx washers 5,3mm x 10mm
+- 2x washers 5,3mm x 10mm polyamid
+- (4x machine foots)
 
-## Adjustment guides
+## Alignment guides
 
 <img src="docs/stenciljig_adjustment_guide.png" width="400px"></a>
 
-The adjustment guides are there to hold the upper part of the jig (including the stencil) during the stenceling process in place, so that it doesn't move to the left nor right.
+The alignment guides are there to hold the upper part of the jig (including the stencil) during the stenceling process in place, so that it doesn't move to the left nor right.
