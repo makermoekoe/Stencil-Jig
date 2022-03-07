@@ -3,9 +3,15 @@
 <img src="docs/stenciljig_complete_closed.png" width="400px"></a>
 <img src="docs/stenciljig_complete_opened.png" width="400px"></a>
 
-The Stencil-Jig is a simple DIY machine for PCB stenciling built with the Openbuilds v-slot system. Dealing with those stencils is always tricky, because they have to be aligned perfectly to get great soldering results. So far, I was always using these stencils with spare PCBs around the project PCB which are fixed in position with tape. As I am using these stencils quite often in the last time I was thinking about creating a simple jig for it and here it is.
+The Stencil-Jig is a simple DIY machine for PCB stenciling built with the Openbuilds v-slot system. Dealing with those stencils is always tricky, because they have to be aligned perfectly to get great soldering results. So far, I was always using these stencils with spare PCBs around the project PCB which are fixed in position with tape. As I am using these stencils quite often in the last time I was thinking about creating a simple jig for it - and here it is.
 
-The stencils can be clamped into the Stencil-Jig with the inner v-slot extrusions and with all the adjustment screws on the sides and the front the PCB underneath the stencil and the stencil itself can be aligned easily (at least this is the plan).
+The stencils can be clamped into the Stencil-Jig with the inner v-slot extrusions. With all the adjustment screws on the sides and the front, the PCB and the stencil can be aligned easily to fit each other (at least this is the plan). The PCB holders are not yet the best option but they are working for now. If you have other ideas of how the PCB alignment could be done better then please let me know!
+
+## Assembling
+
+I've created a detailed video about the assembly process of the StencilJig. There are notes in the video as well.
+
+- video link here
 
 ## Extrusions
 
@@ -60,7 +66,7 @@ Except the 3D printed parts and the extrusions listed above you will also need t
 - 60x M4 extrusion nuts
 - 1x M4 self-locking nut
 - Xx washers 4,3mm x 15mm
-- Xx washers 5,3mm x 10mm
+- 4x washers 5,3mm x 15mm
 - 2x washers 5,3mm x 10mm polyamid
 - (4x machine foots)
 
@@ -68,4 +74,4 @@ Except the 3D printed parts and the extrusions listed above you will also need t
 
 <img src="docs/stenciljig_adjustment_guide.png" width="400px"></a>
 
-The alignment guides are there to hold the upper part of the jig (including the stencil) during the stenceling process in place, so that it doesn't move to the left nor right.
+The alignment guides are there to hold the upper part of the jig (including the stencil) during the stenceling process in place, so that it doesn't move to the left or right.
