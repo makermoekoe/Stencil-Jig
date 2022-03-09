@@ -1,12 +1,18 @@
 # Stencil-Jig
 
-<img src="docs/stenciljig_complete1.JPG" width="800px"></a>
+<img src="docs/stenciljig_complete1.JPG" width="805px"></a>
 <img src="docs/stenciljig_complete_closed.png" width="400px"></a>
 <img src="docs/stenciljig_complete_opened.png" width="400px"></a>
 
 The Stencil-Jig is a simple DIY machine for PCB stenciling built with the Openbuilds v-slot system. Dealing with those stencils is always tricky, because they have to be aligned perfectly to get great soldering results. So far, I was always using these stencils with spare PCBs around the project PCB which are fixed in position with tape. As I am using these stencils quite often in the last time I was thinking about creating a simple jig for it - and here it is.
 
 The stencils can be clamped into the Stencil-Jig with the inner v-slot extrusions. With all the adjustment screws on the sides and the front, the PCB and the stencil can be aligned easily to fit each other (at least this is the plan). The PCB holders are not yet the best option but they are working for now. If you have other ideas of how the PCB alignment could be done better then please let me know!
+
+These built is inspired by two other DIY designs of Stencil printers/jigs/machines:
+
+- Valera Perinski: https://www.thingiverse.com/thing:3429201
+- Dengler Mechatronik: https://dengler-mechatronik.de/?p=560
+
 
 ## Assembling
 
@@ -29,20 +35,19 @@ For the complete machine, as it is seen in the picture below, you'll need the fo
 
 - 1x hinge_left.stl
 - 1x hinge_right.stl
-- 2x slide_mount_hinge.stl
-- 2x slide_mount_front.stl
+- 4x slide_mount.stl
 - 4x slider.stl
-- 2x slider_stop.stl
+- 2x slide_stopper.stl
 - 2x alignment_guide.stl
-- 1x screwstop_m4_nut.stl
-- 1x screwstop_m4.stl
-- 1x knob_m4_nut.stl
-- 4x screwstop_m3_side.stl
+- 1x screwstop_m4_incl.stl
+- 1x screwstop_m4_knob.stl
+- 1x knob_m4.stl
+- 4x screwstop.stl
 - 4x knob_m3.stl
-- 1x pcb_mount_edge.stl
-- 1x pcb_mount_straight.stl
+- 1x pcb_mount_edge_1_6mm.stl
+- 1x pcb_mount_straight_1_6mm.stl
 
-## What to buy
+## What you need
 
 Except the 3D printed parts and the extrusions listed above you will also need the following parts:
 
