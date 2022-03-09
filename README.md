@@ -1,5 +1,6 @@
 # Stencil-Jig
 
+<img src="docs/stenciljig_complete1.JPG" width="800px"></a>
 <img src="docs/stenciljig_complete_closed.png" width="400px"></a>
 <img src="docs/stenciljig_complete_opened.png" width="400px"></a>
 
@@ -72,6 +73,13 @@ Except the 3D printed parts and the extrusions listed above you will also need t
 
 ## Alignment guides
 
-<img src="docs/stenciljig_adjustment_guide.png" width="400px"></a>
+<img src="docs/stenciljig_alignment_guide.png" width="400px"></a>
 
 The alignment guides are there to hold the upper part of the jig (including the stencil) during the stenceling process in place, so that it doesn't move to the left or right.
+
+
+## TODOs
+
+- Alignment guide: This part should be modified with two magnets facing against each other so that the top of jig will be pushed down once inserted in the alignment guide. This will keep the stencil down.
+- The PCB holders should be optimized. At least they should be wider and on the same high as the PCB so that the stencil won't bent.
+- Springs should be stronger. Or exchanging the springs with a tightener (knob as in the front) on the back?!
